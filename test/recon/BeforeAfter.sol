@@ -19,6 +19,7 @@ abstract contract BeforeAfter is Setup {
         uint256 rEFERENCE_RelativeTwapWeightedObserver_valueToTrack;
     }
 
+
     Vars internal _before;
     Vars internal _after;
 
